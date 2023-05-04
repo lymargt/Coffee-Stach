@@ -1,0 +1,2 @@
+# Coffee-Stach
+ZalozeniaWlasnejWitryny
